@@ -8,11 +8,11 @@
 				"name": "Vicegerency",
 				"uniques": ["[+15 Food, +15 Production, +15 Science, +15 Gold,] [in all cities]"],
 				"row": 1,
-				"column": 2
+				"column": 1
 			},
 			{
 				"name": "Servant of Allah",
-				"uniques": ["[+50 Faith] [in all cities],
+				"uniques": ["[+50 Faith] [in all cities],["Provides a [Mosque] in all your cities for free"],
 				"row": 1,
 				"column": 3
 			},
@@ -20,7 +20,7 @@
 				"name": "First Revelation",
 				"uniques":["Provides a [Jami' Mosque] in all your cities for free"], "+15 Science [in all cities]"],
 				"row": 1,
-				"column": 4
+				"column": 5
 			},
 			{
 				"name": "Islamization Complete",
