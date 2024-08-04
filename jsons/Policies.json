@@ -12,29 +12,15 @@
 			},
 			{
 				"name": "Servant of Allah",
-				"uniques": ["[+50 Faith] [in all cities], ["Provides a [Mosque] in all cities for free"],
+				"uniques": ["[+50 Faith] [in all cities], ["Provides a Mosque in all cities for free"],
 				"row": 1,
 				"column": 3
 			},
-						{
+			{
 				"name": "First Revelation",
 				"uniques":["Provides a [Jami' Mosque] in all your cities for free"], "+15 Science [in all cities]"],
 				"row": 1,
 				"column": 4
-			},
-			{
-				"name": "Landed Elite",
-				"uniques": ["[+10]% growth [in capital]", "[+2 Food] [in capital]"],
-				"requires": ["Legalism"],
-				"row": 3,
-				"column": 3
-			},
-			{
-				"name": "Monarchy",
-				"uniques": ["[+1 Gold, +1 Happiness] per [2] population [in capital]"],
-				"requires": ["Legalism"],
-				"row": 3,
-				"column": 5
 			},
 			{
 				"name": "Islamization Complete",
