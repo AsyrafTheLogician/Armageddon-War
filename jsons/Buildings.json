@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Mosque of The Prophet",
-		"cost": 150,
+		"cost": 300,
 		"happiness": 35,
 		"culture": 35,
 		"science": 35,
@@ -12,9 +12,9 @@
 		"name": "Synagogue",
 		"replaces": "Temple",
 		"uniqueTo": "Israel", 
-		"faith": 10,
-		"happiness": 5,
-		"gold": 20,
+		"faith": 15,
+		"happiness": 15,
+		"gold": 25,
 		"cost": 50,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Shrine"
