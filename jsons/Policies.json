@@ -18,7 +18,7 @@
 			},
 			{
 				"name": "First Revelation",
-				"uniques":["Provides a [Jami' Mosque] in all your cities for free"], "+15 Science [in all cities]"],
+				"uniques":["Provides a [Jami' Mosque] and ["+15 Science] in all your cities"],
 				"row": 1,
 				"column": 5
 			},
