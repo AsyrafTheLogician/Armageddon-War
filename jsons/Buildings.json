@@ -23,6 +23,7 @@
 	{
 		"name": "Jami' Mosque",
 		"culture": 5,
+		"happiness" : 10,
 		"faith": 10,
 		"science": 15,
 		"uniques": ["Gain a free [Mosque] [in this city]", "Only available <after adopting [Piety]>", "Hidden when religion is disabled",
