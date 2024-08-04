@@ -1,0 +1,43 @@
+[
+	{
+		"name": "Islamization",
+		"era": "Classical era",
+		"uniques": ["[+100 Faith] [in capital]","[+25 Science, +50 Culture, +10 Happiness] [in all cities]", "[-75]% Culture cost of natural border growth [in all cities]","Unlocks building the Mosque of The Prophet"],
+		"policies": [
+			{
+				"name": "Vicegerency",
+				"uniques": ["[+15 Food, +15 Production, +15 Science, +15 Gold,] [in all cities]"],
+				"row": 1,
+				"column": 2
+			},
+			{
+				"name": "Servant of Allah",
+				"uniques": ["[+50 Faith] [in all cities], ["Provides a [Mosque] in all your cities for free"],
+				"row": 1,
+				"column": 3
+			},
+						{
+				"name": "First Revelation",
+				"uniques":["Provides a [Jami' Mosque] in all your cities for free"], "+15 Science [in all cities]"],
+				"row": 1,
+				"column": 4
+			},
+			{
+				"name": "Landed Elite",
+				"uniques": ["[+10]% growth [in capital]", "[+2 Food] [in capital]"],
+				"requires": ["Legalism"],
+				"row": 3,
+				"column": 3
+			},
+			{
+				"name": "Monarchy",
+				"uniques": ["[+1 Gold, +1 Happiness] per [2] population [in capital]"],
+				"requires": ["Legalism"],
+				"row": 3,
+				"column": 5
+			},
+			{
+				"name": "Islamization Complete",
+				"uniques": ["[+15]% growth [in all cities]","Provides [Mosque of The Prophet] [in capital] for free"]
+			}
+		]
