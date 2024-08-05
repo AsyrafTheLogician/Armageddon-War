@@ -2,7 +2,7 @@
 	{
 		"name": "Islamization",
 		"era": "Classical era",
-		"uniques": ["[+100 Faith] [in capital]","[+25 Science, +50 Culture, +10 Happiness] [in all cities]", "[-75]% Culture cost of natural border growth [in all cities]","Unlocks building the Mosque of The Prophet"],
+		"uniques": ["[+100 Faith] [in capital]","[+25 Science, +50 Culture, +10 Happiness] [in all cities]", "[-75]% Culture cost of natural border growth [in all cities]"],
 		"policies": [
 			{
 				"name": "Vicegerency",
@@ -18,12 +18,12 @@
 			},
 			{
 				"name": "First Revelation",
-				"uniques":["Provides a [Jami' Mosque] [in capital] for free, [+15 Science] in all your cities"],
+				"uniques":["[+15 Science] in all your cities"],
 				"row": 1,
 				"column": 5
 			},
 			{
 				"name": "Islamization Complete",
-				"uniques": ["[+15]% growth [in all cities]", "Provides [Mosque of The Prophet] [in capital] for free"]
+				"uniques": ["[+45]% growth [in all cities]"]
 			}
 		]
